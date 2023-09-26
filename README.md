@@ -1,2 +1,2 @@
 # bedrock-manifest-generator
-A repo for a web app made with Firebase. The workflow here updates the app
+The repo for (https://bedrock-manifest.web.app/)[https://bedrock-manifest.web.app/], hosted on Firebase.
